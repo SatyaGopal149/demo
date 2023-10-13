@@ -1,2 +1,3 @@
 # demo
-This is my git git repository
+This is my first git repository
+author Satya Gopal
